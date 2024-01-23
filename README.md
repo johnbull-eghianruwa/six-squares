@@ -5,7 +5,7 @@ I saw this task below on twitter:
 <blockquote>
 
 ```
-
+Build six squares with no color. Every time you click one, it turns green when the last square turns green, they all go back to no color in backwards sequence to which it was clicked (not all at once)
 ```
 
 </blockquote>
